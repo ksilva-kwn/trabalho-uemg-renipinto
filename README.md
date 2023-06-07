@@ -1,2 +1,3 @@
-# trabalho-uemg-renipinto
-Nosso primeiro site
+Trabalho da UEMG - Reni Pinto
+
+Nosso primeiro site em HTML e CSS
