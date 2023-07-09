@@ -74,6 +74,11 @@ li {
     height: 200px;
 }
 
+.cv {
+    display: flex;
+    justify-content: center;
+    background-color: #16003a;
+
 footer {
     background-color: #000000;
     padding-top: 40px;
