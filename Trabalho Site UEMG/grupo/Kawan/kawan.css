@@ -1,0 +1,239 @@
+* {
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+nav {
+    display: flex;
+    color: white;
+    justify-content: center;
+    height: 8vh;
+    background-color:#252525;
+}
+
+li {
+    list-style: none;
+    display: inline;
+    justify-content: space-between;
+    padding: 10px;
+    float: left;
+    cursor: pointer;
+}
+
+.link-menu {
+    text-decoration: none;
+    color: white;
+}
+
+.link-menu:hover {
+    color: #5707c0;
+    transition: 0.5s;
+}
+
+button {
+    color: white;
+    background: #2d0266;
+    border: white 2px;
+    height: 45px;
+    width: 130px;
+    font-size: 13px;
+    border: none;
+    border-radius: 50px;
+    cursor: pointer;
+    margin-top:3%;
+}
+
+button:hover {
+    background-color: #000000;
+    border: 3px solid #2d0266;
+    transition: 0.5s;
+}
+
+.cv {
+    display: flex;
+    justify-content: center;
+    background-color: #16003a;
+}
+
+.port {
+    padding-left: 15px;
+    font-size: 25px;
+}
+
+.principal {
+    display:inline-block;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    display: flex;
+    background-color: #252525;
+    color: white;
+    width: 100%;
+    height: 80vh;
+    background: -webkit-linear-gradient(top, #252525 10%, #16003a 100%);
+}
+
+.principal h3 {
+    padding-top: 30px;
+    font-size: 18px;
+    line-height: 25px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 30px;
+}
+
+.principal img {
+    border-radius: 150px;
+    width: 200px;
+    height: 200px;
+}
+
+.cerfiticados {
+    padding-top: 50px;
+    width: 100%;
+    height: 100vh;
+    background: -webkit-linear-gradient(top, #16003a 10%, #252525 100%);
+    color: white;
+    display:inline-block;
+    align-items: center;
+}
+
+.cerfiticados h1{
+text-align: center;
+padding-top: 50px;
+}
+
+
+.certificados {
+    background-color: #191919;
+    padding-top: 50px;
+    padding-bottom: 100px;
+}
+
+.certificados h2 {
+   color: white;
+   font-size: 40px;
+   text-align: center;
+}
+
+.card {
+   background-color: #000000;
+   height: 340px;
+   width: 290px;
+   border-radius: 20px;
+   padding: 30px 40px;
+   text-align: center;
+}
+
+.card img{
+   height: 90px;
+}
+
+.card h5{
+   color: white;
+   font-size: 25px;
+}
+
+.card p {
+   color: rgb(255, 255, 255);
+   margin-top: 20px;
+   margin-bottom: 40px;
+}
+
+.card a {
+   background-color: #2541b3;
+   color: white;
+   padding: 10px 20px;
+   border-radius: 25px;
+   cursor: pointer;
+   transition: 0.5s;
+   text-decoration: none;
+
+}
+
+.card a:hover {
+   background-color: transparent;
+   border: 2px solid #2541b3;
+}
+
+.card-certificados {
+   display: flex;
+   justify-content: center;
+   margin-top: 100px;
+}
+
+footer {
+    background-color: #000000;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+footer h5 {
+    color: white;
+    font-size: 30px;
+}
+
+footer p {
+    color: white;
+    font-size: 25px;
+    margin-bottom: 30px;
+}
+
+.social{
+    display: flex;
+    gap: 20px;
+}
+
+.social img {
+    height: 30px;
+    border-radius: 10px;
+}
+
+.social a {
+    display: flex;
+    border-radius: 80%;
+    align-items: center;
+    height: 50px;
+    width: 50px;
+    justify-content: center;
+    cursor: pointer;
+}
+
+.social a:hover {
+    transform:scale(1.3);
+    transition: 0.5s;
+}
+
+#link-topo {
+    text-decoration: none;
+    color: white;
+    background-color: #2541b3;
+    padding: 10px;
+    position: fixed;
+    right: 10px;
+    bottom: 10px;
+    border-radius: 10px;
+    box-shadow: 3px 3px 6px #000000;
+}
+
+#link-topo {
+    text-decoration: none;
+    color: white;
+    background-color: #2d0266;
+    padding: 10px;
+    position: fixed;
+    right: 10px;
+    bottom: 10px;
+    border-radius: 300px;
+    box-shadow: 3px 3px 6px #000000;
+}
