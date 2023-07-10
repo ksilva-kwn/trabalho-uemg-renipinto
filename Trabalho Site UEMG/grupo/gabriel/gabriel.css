@@ -74,6 +74,32 @@ li {
     height: 200px;
 }
 
+button {
+    color: white;
+    background: #2d0266;
+    border: white 2px;
+    height: 45px;
+    width: 130px;
+    font-size: 13px;
+    border: none;
+    border-radius: 50px;
+    cursor: pointer;
+    margin-top:3%;
+}
+
+button:hover {
+    background-color: #000000;
+    border: 3px solid #2d0266;
+    transition: 0.5s;
+}
+
+.cv {
+    display: flex;
+    justify-content: center;
+    background-color: #16003a;
+}
+
+
 footer {
     background-color: #000000;
     padding-top: 40px;
