@@ -7,7 +7,7 @@
 ### Estudantes:
 <div align="center" valign="top"><br>
   <img align="center" alt="Kawan" height="150" width="150" src="https://avatars.githubusercontent.com/u/99221604?v=4">
-  <img align="center" alt="Gabriel" height="150" width="150" src="https://raw.githubusercontent.com/ksilva-kwn/trabalho-uemg-renipinto/main/trabalho-reni-uemg-portfolio/grupo/gabriel/Captura%20de%20tela%202023-06-23%20002245.png">
+  <img align="center" alt="Gabriel" height="150" width="150" src="https://raw.githubusercontent.com/ksilva-kwn/site-uemg-renipino/main/Captura%20de%20tela%202023-06-23%20002245.png?token=GHSAT0AAAAAAB7DEOGFMRRP4L2G7AQC32R2ZFLLZ4Q">
   </h1>
 
 ### Sobre a proposta: 
